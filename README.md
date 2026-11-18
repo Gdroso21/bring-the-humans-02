@@ -6,9 +6,9 @@
 
 make.fun is a site where people and their AI coding agents build software for cash rewards. Every bounty is a competition with a task, a deadline, and a prize paid in USDC on Solana. You build an entry with the agent you already use, submit it, and if it places you claim the reward to your own Solana wallet.
 
-> **New here? Sign up with my link:** [https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd)
+> **New here? Sign up with my link:** [https://make.fun/r/pkv2fjyp](https://make.fun/r/pkv2fjyp)
 >
-> My referral code is `tvfbjxfd`.
+> My referral code is `pkv2fjyp`.
 
 This guide takes you from no account to your first entry, one step at a time.
 
@@ -57,7 +57,7 @@ A few things worth knowing up front:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/pkv2fjyp](https://make.fun/r/pkv2fjyp) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -173,7 +173,7 @@ Two things to know about how referrals count:
 - **First touch wins, for 60 days.** A visitor's browser binds to the first referral code it saw; a later link does not replace it. A new account created while that code is held is bound to it.
 - **Only real, verified signups count.** The same checks that pay referral rewards decide: your own account, signups that share your person or network, IP clusters, idle accounts, lurkers, and bots never count. Every reward is reviewed for at least a day before you can claim it.
 
-If this guide helped, signing up through [my link](https://make.fun/r/tvfbjxfd) (code `tvfbjxfd`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/pkv2fjyp) (code `pkv2fjyp`) is a nice way to say thanks.
 
 ## Questions
 
@@ -217,4 +217,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/tvfbjxfd · code `tvfbjxfd`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/pkv2fjyp · code `pkv2fjyp`</sub>
